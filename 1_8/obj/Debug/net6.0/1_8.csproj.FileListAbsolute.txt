@@ -1,0 +1,15 @@
+E:\Обучения\GeekBrains\Piton\1 четверть\C\DZ\1_8\bin\Debug\net6.0\1_8.exe
+E:\Обучения\GeekBrains\Piton\1 четверть\C\DZ\1_8\bin\Debug\net6.0\1_8.deps.json
+E:\Обучения\GeekBrains\Piton\1 четверть\C\DZ\1_8\bin\Debug\net6.0\1_8.runtimeconfig.json
+E:\Обучения\GeekBrains\Piton\1 четверть\C\DZ\1_8\bin\Debug\net6.0\1_8.dll
+E:\Обучения\GeekBrains\Piton\1 четверть\C\DZ\1_8\bin\Debug\net6.0\1_8.pdb
+E:\Обучения\GeekBrains\Piton\1 четверть\C\DZ\1_8\obj\Debug\net6.0\1_8.csproj.AssemblyReference.cache
+E:\Обучения\GeekBrains\Piton\1 четверть\C\DZ\1_8\obj\Debug\net6.0\1_8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучения\GeekBrains\Piton\1 четверть\C\DZ\1_8\obj\Debug\net6.0\1_8.AssemblyInfoInputs.cache
+E:\Обучения\GeekBrains\Piton\1 четверть\C\DZ\1_8\obj\Debug\net6.0\1_8.AssemblyInfo.cs
+E:\Обучения\GeekBrains\Piton\1 четверть\C\DZ\1_8\obj\Debug\net6.0\1_8.csproj.CoreCompileInputs.cache
+E:\Обучения\GeekBrains\Piton\1 четверть\C\DZ\1_8\obj\Debug\net6.0\1_8.dll
+E:\Обучения\GeekBrains\Piton\1 четверть\C\DZ\1_8\obj\Debug\net6.0\refint\1_8.dll
+E:\Обучения\GeekBrains\Piton\1 четверть\C\DZ\1_8\obj\Debug\net6.0\1_8.pdb
+E:\Обучения\GeekBrains\Piton\1 четверть\C\DZ\1_8\obj\Debug\net6.0\1_8.genruntimeconfig.cache
+E:\Обучения\GeekBrains\Piton\1 четверть\C\DZ\1_8\obj\Debug\net6.0\ref\1_8.dll
